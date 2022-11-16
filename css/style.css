@@ -16,14 +16,10 @@ a{
 }
 
 #titulo{
-    display: flex;
-    justify-content: center;
     text-decoration: underline;
 }
 
 #presentacion{
-    display: flex;
-    justify-content: center;
     margin-top: 2rem;
 }
 
