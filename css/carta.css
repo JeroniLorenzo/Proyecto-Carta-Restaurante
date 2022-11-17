@@ -24,3 +24,12 @@ a{
     width: 300px;
     color: blanchedalmond;
 }
+
+#plato{
+    width: 100px;
+    height: 80px;
+}
+
+p, h4{
+    color: burlywood;
+}
