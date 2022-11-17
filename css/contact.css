@@ -1,22 +1,18 @@
-body {
-    background-image: url(/Proyecto-Carta-Restaurante/img/foto1.avif);
-    background-size: 100%;
-    background-repeat: no-repeat;
+body{
+    background-color: rgb(22, 22, 25);
 }
-
-#header {
+#header{
     background-color: rgb(22, 22, 25);
     color: blanchedalmond;
     height: 4rem;
 }
 
-a {
+a{
     color: blanchedalmond;
-    font-family: 'Trebuchet MS';
+    font-family:'Trebuchet MS';
 }
 
-#titulo {
-    display: flex;
-    justify-content: center;
+#titulo{
     text-decoration: underline;
+    color: blanchedalmond;
 }
