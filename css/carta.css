@@ -34,3 +34,7 @@ a{
 p, h4{
     color: burlywood;
 }
+
+#borde{
+    border: double greenyellow;
+}
