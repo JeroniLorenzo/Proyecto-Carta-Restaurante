@@ -28,12 +28,17 @@ a{
     align-content: center;
     width: 300px;
     color: blanchedalmond;
+    border: double rgb(125, 125, 2) 10px;
 }
 
 #sellocovid, #sellocalidad{
     width: 100px;
 }
 #fotorest{
-    width: 200px;
+    width: 451px;
+    height: 136px;
+    display: flex;
+    position: relative;
+    left: 13px;
 
 }

@@ -17,3 +17,43 @@ a{
     text-decoration: underline;
     color: blanchedalmond;
 }
+
+.presentacion{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 300px;
+    color: blanchedalmond;
+}
+
+#plato{
+    width: 100px;
+    height: 80px;
+}
+
+p, h4, span{
+    color: burlywood;
+
+}
+
+p, span{
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+}
+
+#caja-info{
+    border: double rgb(125, 125, 2) 10px;
+    width: 22rem;
+}
+
+.logo{
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+}
+
+#map{
+    width: 100px;
+    height: 100px;
+}

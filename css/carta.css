@@ -36,5 +36,11 @@ p, h4{
 }
 
 #borde{
-    border: double greenyellow;
+    border: double rgb(125, 125, 2) 10px;
+}
+
+#insta, #twitter{
+    position: relative;
+    left: 50px;
+    display: flex;
 }
