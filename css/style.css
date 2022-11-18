@@ -15,7 +15,8 @@ a{
 
 #titulo{
     text-decoration: underline;
-    color: blanchedalmond;
+    color: rgb(43, 43, 43);
+    text-shadow: #a9a7a7 5px;
 }
 
 #presentacion{
@@ -41,4 +42,9 @@ a{
     position: relative;
     left: 13px;
 
+}
+
+.caja-titulo{
+    background-color:rgb(125, 125, 2);
+    border: double 5px black;
 }
