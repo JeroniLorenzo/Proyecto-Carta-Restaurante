@@ -34,7 +34,9 @@ a{
 p, h4{
     color: burlywood;
 }
-
+p{
+    display: flex;
+}
 #borde{
     border: double rgb(125, 125, 2) 10px;
 }
